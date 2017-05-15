@@ -14,4 +14,4 @@ KVNode is run by all the nodes in the system. All the nodes are given a file of 
 
 #### Malicious KVNode
 
-Malicious KVNode is an attempt at recreating a sybil attack. When >50% of the nodes are malicious, the malicious nodes begin aborting real nodes transactions by creating and integrating conflicting transactions into the chain that will cause other transactions to abort.
+Malicious KVNode is an attempt at recreating a sybil attack. When more than 50% of the nodes are malicious, the malicious nodes begin aborting real nodes transactions by creating and integrating conflicting transactions into the chain that will cause other transactions to abort.
